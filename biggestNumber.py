@@ -1,4 +1,4 @@
-def main(array):
+def biggestNumber(array):
   if array == None or len(array) == 0:
     raise ValueError("Empty array")
   
